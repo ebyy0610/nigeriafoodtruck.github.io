@@ -1,0 +1,44 @@
+h2{font-size: 20px ;}
+body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+body{height: 740px;width: 1280px;}
+h1{font-size: 40px;}
+h2{font-size: 20px; line-height: 8px;font-weight: 100;}
+h3{font-size: 20px; line-height: 8px ;}
+h4{font-size: 20px; line-height: 15px;}
+
+a{color: black;}
+.box2{line-height: 3px ;font-size: 14px; float: left; padding-top: 25px; padding-left: 2%;}
+.box1{float: right; padding-top:0px}
+.box4{float: middle;}
+.box5{float:left; position: absolute;}
+li{font-size: 20px;}
+p{font-size: 14px;line-height:3px}
+.box7{float: right; padding-right: 0%;}
+.box8{float: left; top: 4%; padding-left:37%; position:absolute}
+.box9{float: left; top: 4%; padding-left: 17%; position: absolute}
+.box10{float: left; top: 4% ; padding-left: 45%; position:absolute; line-height: 40px;}
+.box12{ left:2% ;bottom: 4%; max-width: 87%; position: absolute ;}
+.box13{bottom:4% ; left: 19%; position:absolute}
+.box14{bottom:4%; margin-left: 37%; position: absolute;}
+.box15{bottom: 4%; margin-left: 56%; position: absolute}
+.box16{bottom: 4%; margin-left: 75%; position: absolute}
+.box17{line-height:3px;float:left; top:4%; padding-left: 2%; position:absolute}
+.box18{right:2%; position:absolute}
+.box19{left:2%; position:absolute}
+.box20{float:left; top:4%; padding-left: 12%; position:absolute}
+h6{font-size: 14px; line-height: 4px}
+.box21{left:2%; position:absolute; top:18%}
+.box22{left:2%; position:absolute; top: 30%}
+.box23{left:2%; position:absolute; top:43%}
+.box24{left:2%; position:absolute; top:56%}
+.box25{left:2%; position:absolute; bottom:4%}
+.box26{left:2%; position:absolute; bottom: 4%; margin-left: 13%}
+.box27{left:2%; position:absolute; bottom:4%; margin-left: 30%}
+.box28{left:2%; position:absolute; bottom:4%; margin-left: 50%}
+.box29{left:2%; position:absolute; bottom:4%; margin-left: 69%}
+.box30{left:2%; position:absolute; bottom:  4%; margin-left: 79%}
+.box31{left:2%; position:absolute; bottom:4%; margin-left: 88%}
+ h5{font-size:14px; line-height: 15px}
+ .box32{left:2%; position:absolute; bottom: 4%}
+ .box33{left:30%; position:absolute; bottom: 4%}
+ .box34{left:49%; position:absolute; bottom: 4%}
